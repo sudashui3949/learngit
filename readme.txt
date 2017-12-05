@@ -3,4 +3,4 @@ Git is free software.
 Git is very strong.
 Git is very useful.
 Git has a mutable index called stage.
-Git tracks changes.
+Git tracks changes of files.
